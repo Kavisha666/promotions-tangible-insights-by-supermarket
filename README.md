@@ -10,6 +10,9 @@ AtliQ Mart is a retail giant with over 50 supermarkets in the southern region of
 
 Sales director Bruce Haryali wanted this immediately but the analytics manager Tor engaged on another critical project. Tony decided to give this work to Peter Pandey is the curious data analyst of AtliQ Mart. Since these insights will be directly reporte the sales director, Tony also provided some notes to Peter to support his work.
 
+![Screenshot 2024-02-05 215206](https://github.com/Kavisha666/promotions-tangible-insights-by-supermarket/assets/158316623/2e6081fd-8b26-4b50-909f-ef9abf806d32)
+
+
 Task:
 
 Imagine yourself as Peter Pandey and perform the following task to keep up the tru with your manager Tony Sharma.
